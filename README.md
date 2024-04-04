@@ -9,3 +9,4 @@ This Power BI dashboard 📊 visualizes some interesting insights 📈, includin
 💡 The average cost for two at the most expensive restaurants.
 💡 How many restaurants fall into each customer rating category?
 ![Uploading Screenshot 2024-04-05 005642.png…]()
+![Zomato Data Analysis](https://github.com/[codinggaurav7]/[Zomato-Data-Analysis]/blob/[branch]/Screenshot 2024-04-05 005642.png…)
